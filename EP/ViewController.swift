@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  EP
 //
-//  Created by 二六三 on 26/9/15.
-//  Copyright (c) 2015年 net263. All rights reserved.
+//  Created by Robert Zhang on 26/9/15.
+//  Copyright (c) 2015年 robertzhangsh@gmail.com. All rights reserved.
 //
 
 import UIKit

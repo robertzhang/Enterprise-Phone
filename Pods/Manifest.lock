@@ -1,0 +1,27 @@
+PODS:
+  - FontasticIcons (0.5.0)
+  - JCDialPad (0.1.1):
+    - libPhoneNumber-iOS
+  - libPhoneNumber-iOS (0.8.7)
+  - SDWebImage (3.7.3):
+    - SDWebImage/Core (= 3.7.3)
+  - SDWebImage/Core (3.7.3)
+  - SwiftyJSON (2.3.2)
+  - TKSubmitTransition (0.3)
+
+DEPENDENCIES:
+  - FontasticIcons
+  - JCDialPad
+  - SDWebImage
+  - SwiftyJSON
+  - TKSubmitTransition
+
+SPEC CHECKSUMS:
+  FontasticIcons: f20740bf8f1d3565c312f1c3b9806339212b58aa
+  JCDialPad: d977d1ff76eaaa1939c5f3b8882937094e093b3d
+  libPhoneNumber-iOS: 1bccd3288375d954b0b904e26061cecaa0fb83d6
+  SDWebImage: 1d2b1a1efda1ade1b00b6f8498865f8ddedc8a84
+  SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
+  TKSubmitTransition: 6634e4fb07288db861b66d70fa4c4a7b96d0e6b2
+
+COCOAPODS: 0.38.2
